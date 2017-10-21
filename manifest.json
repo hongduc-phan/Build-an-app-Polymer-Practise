@@ -1,0 +1,7 @@
+{
+  "name": "Build-an-app-tut",
+  "short_name": "Build-an-app-tut",
+  "description": "Buidl an app following Polymer Docs",
+  "start_url": "/",
+  "display": "standalone"
+}
